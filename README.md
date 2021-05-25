@@ -1,4 +1,7 @@
-# 2021Notes
+# 2021 Notes
+
+# REST
+
 
 
 curl -X POST 'https://example.com/api/v1/dags/{dag_id}?update_mask=is_paused' \
@@ -7,3 +10,8 @@ curl -X POST 'https://example.com/api/v1/dags/{dag_id}?update_mask=is_paused' \
 -d '{
     "is_paused": true
 }'
+
+
+# REST Tools
+
+https://httpie.io/
