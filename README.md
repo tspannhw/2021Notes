@@ -14,4 +14,6 @@ curl -X POST 'https://example.com/api/v1/dags/{dag_id}?update_mask=is_paused' \
 
 # REST Tools
 
-https://httpie.io/
+* https://httpie.io/
+* https://insomnia.rest/download
+
