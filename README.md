@@ -17,3 +17,7 @@ curl -X POST 'https://example.com/api/v1/dags/{dag_id}?update_mask=is_paused' \
 * https://httpie.io/
 * https://insomnia.rest/download
 
+
+# COOL DEMOS
+
+* https://github.com/openalpr/openalpr
